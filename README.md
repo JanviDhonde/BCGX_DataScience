@@ -1,7 +1,7 @@
 # BCG Data Science Job Simulation  
 
 **BCGX_DataScience:** <br>
-Completed BCG's Data Science job simulation on Forage, where I analyzed customer churn data using Python (pandas, NumPy). Built and optimized a Random Forest model with 85% accuracy, visualized trends, and created an executive summary for actionable insights. Gained hands-on experience in EDA, machine learning, and client communication.
+Completed BCG's Data Science job simulation on Forage, where I analyzed customer churn data using Python (pandas, NumPy). Built and optimized a Random Forest model with 85% accuracy, visualized trends, and created an executive summary for actionable insights. Gained hands-on experience in EDA, machine learning, and client communication..
 
 **Repository Overview:**  
 This repository highlights my experience in customer churn analysis, completed during the BCG Data Science job simulation on the Forage platform. As part of this simulation, I worked on analyzing customer data to predict churn and deliver actionable insights. This project allowed me to apply advanced data science techniques, including data analysis with Python, model building, and creating an executive summary to communicate findings to key stakeholders.
